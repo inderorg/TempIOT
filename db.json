@@ -26,34 +26,6 @@
         "temperature" : "30",
         "humidity" :"76",
         "time" : "30"
-    },
-    {   
-        "id":"5",
-        "devicename":"turbine",
-        "temperature" : "30",
-        "humidity" :"76",
-        "time" : "30"
-    },
-    {   
-        "id":"6",
-        "devicename":"turbine",
-        "temperature" : "30",
-        "humidity" :"76",
-        "time" : "30"
-    },
-    {   
-        "id":"7",
-        "devicename":"turbine",
-        "temperature" : "30",
-        "humidity" :"76",
-        "time" : "30"
-    },
-    {   
-        "id":"8",
-        "devicename":"turbine",
-        "temperature" : "30",
-        "humidity" :"76",
-        "time" : "30"
     }
 
 ]
