@@ -1,11 +1,59 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+[
+    {   
+        "id":"1",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"2",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"3",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"4",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"5",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"6",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"7",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
+    },
+    {   
+        "id":"8",
+        "devicename":"turbine",
+        "temperature" : "30",
+        "humidity" :"76",
+        "time" : "30"
     }
-  }
+
+]
